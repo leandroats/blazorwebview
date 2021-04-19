@@ -1,0 +1,19 @@
+﻿body{
+    align-items:center;
+    background: #4800ff;
+    display: flex;
+    justify-content: center;
+}
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('fonts/ProximaNova.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: 'Proxima Nova', sans-serif;
+    font-size: 72px;
+}
